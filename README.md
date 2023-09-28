@@ -1,3 +1,10 @@
 # CZ1
 buồn ngủ
 hôm nay lại buồn ngủ
+echo "# BKL" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/genzcrypto/BKL.git
+git push -u origin main
